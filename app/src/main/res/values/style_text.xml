@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PageHeadlineItemTextAppearance">
+        <item name="android:textSize">@dimen/headline_text</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:textAppearance">?attr/textAppearanceHeadline6</item>
+    </style>
+
+    <style name="SubItemTextAppearanceNoSpacing">
+        <item name="android:textSize">@dimen/sub_text</item>
+        <item name="android:textColor">@color/sub_text</item>
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+    </style>
+</resources>

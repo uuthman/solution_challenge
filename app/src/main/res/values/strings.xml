@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Solution Challenge</string>
+    <string name="enter_search">Enter search...</string>
+    <string name="submit">Submit</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="sorry_incov">Sorry, we are currently experiencing some internal technical difficulties. Please give it a moment and try again</string>
+    <string name="try_again">Let\'s try again</string>
+    <string name="unkown_error">Unknown error</string>
+    <string name="network_problem">We’ve detected a network problem</string>
+    <string name="check_internet">Please check your connectivity and try again</string>
+    <string name="validation_failed">Validation failed</string>
+    <string name="close">Close</string>
+    <string name="user_not_found">Users not found</string>
+</resources>
